@@ -1,6 +1,6 @@
-import 'package:app_calculator_flutter/views/home.dart';
-import 'package:flutter/material.dart';
+import 'package:app_calculator_flutter/pages/home.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
